@@ -37354,6 +37354,8 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-image-1 {
   width: 72px;
   height: 72px;
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+  filter: brightness(0.2);
   margin: 10px 1068px 0 auto;
 }
 
