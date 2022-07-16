@@ -37352,10 +37352,10 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  width: 71px;
+  width: 70px;
   height: 73px;
   filter: brightness(0.2);
-  margin: 9px auto 0 50px;
+  margin: 9px auto 0 21px;
 }
 
 .u-header .u-logo-image-1 {
@@ -37379,7 +37379,7 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 1199px) {
   .u-header .u-image-1 {
     margin-right: 868px;
-    margin-left: 50px;
+    margin-left: 21px;
   }
 
   .u-header .u-menu-1 {
