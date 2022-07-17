@@ -79,12 +79,18 @@
     width: 340px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 848px;
+  min-height: 928px;
 }
 
 .u-section-2 .u-text-1 {
+  text-transform: uppercase;
+  font-family: "Open Sans", sans-serif;
+  margin: 32px auto 0;
+}
+
+.u-section-2 .u-text-2 {
   width: 302px;
-  margin: 103px auto 0;
+  margin: 89px auto 0;
 }
 
 .u-section-2 .u-gallery-1 {
@@ -295,11 +301,11 @@
 
 .u-section-3 .u-text-1 {
   width: 191px;
-  margin: 53px auto 0;
+  margin: 52px auto 0;
 }
 
 .u-section-3 .u-layout-wrap-1 {
-  margin-top: 24px;
+  margin-top: 26px;
   margin-bottom: 50px;
 }
 
