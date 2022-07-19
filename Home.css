@@ -698,7 +698,6 @@
 .u-section-5 .u-list-1 {
   margin-bottom: 43px;
   margin-top: 70px;
-  min-height: 523px;
 }
 
 .u-section-5 .u-repeater-1 {
@@ -715,6 +714,8 @@
 .u-section-5 .u-image-1 {
   width: 156px;
   height: 156px;
+  background-image: url("images/taher.jpg");
+  background-position: 50% 50%;
   margin: 7px 115px 0 84px;
 }
 
@@ -734,6 +735,8 @@
 .u-section-5 .u-image-2 {
   width: 156px;
   height: 156px;
+  background-image: url("images/vinay.jpg");
+  background-position: 50% 50%;
   margin: 7px 115px 0 84px;
 }
 
@@ -753,6 +756,8 @@
 .u-section-5 .u-image-3 {
   width: 156px;
   height: 156px;
+  background-image: url("images/shital.jpg");
+  background-position: 50% 50%;
   margin: 7px 115px 0 84px;
 }
 
@@ -772,6 +777,8 @@
 .u-section-5 .u-image-4 {
   width: 156px;
   height: 156px;
+  background-image: url("images/Sanjeev.jpg");
+  background-position: 50% 50%;
   margin: 7px 115px 0 84px;
 }
 
@@ -796,6 +803,8 @@
 .u-section-5 .u-image-5 {
   width: 156px;
   height: 156px;
+  background-image: url("images/paras.png");
+  background-position: 50% 50%;
   margin: 7px 115px 0 84px;
 }
 
@@ -815,6 +824,8 @@
 .u-section-5 .u-image-6 {
   width: 156px;
   height: 156px;
+  background-image: url("images/paras.png");
+  background-position: 50% 50%;
   margin: 7px 115px 0 84px;
 }
 
@@ -834,6 +845,8 @@
 .u-section-5 .u-image-7 {
   width: 156px;
   height: 156px;
+  background-image: url("images/kuljeet.png");
+  background-position: 50% 50%;
   margin: 7px 115px 0 84px;
 }
 
@@ -853,6 +866,8 @@
 .u-section-5 .u-image-8 {
   width: 156px;
   height: 156px;
+  background-image: url("images/aniketan.jpg");
+  background-position: 50% 50%;
   margin: 7px 115px 0 84px;
 }
 
@@ -1545,6 +1560,14 @@
 }
 
 .u-section-8 .u-input-3 {
+  text-transform: uppercase;
+}
+
+.u-section-8 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-8 .u-input-4 {
   text-transform: uppercase;
 }
 
