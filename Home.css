@@ -698,6 +698,7 @@
 .u-section-5 .u-list-1 {
   margin-bottom: 43px;
   margin-top: 70px;
+  min-height: 523px;
 }
 
 .u-section-5 .u-repeater-1 {
@@ -824,7 +825,7 @@
 .u-section-5 .u-image-6 {
   width: 156px;
   height: 156px;
-  background-image: url("images/paras.png");
+  background-image: url("images/kuljeet.png");
   background-position: 50% 50%;
   margin: 7px 115px 0 84px;
 }
@@ -845,7 +846,7 @@
 .u-section-5 .u-image-7 {
   width: 156px;
   height: 156px;
-  background-image: url("images/kuljeet.png");
+  background-image: url("images/aniketan.jpg");
   background-position: 50% 50%;
   margin: 7px 115px 0 84px;
 }
@@ -859,33 +860,12 @@
   margin: 35px 0 0;
 }
 
-.u-section-5 .u-container-layout-8 {
-  padding: 0 9px;
-}
-
-.u-section-5 .u-image-8 {
-  width: 156px;
-  height: 156px;
-  background-image: url("images/aniketan.jpg");
-  background-position: 50% 50%;
-  margin: 7px 115px 0 84px;
-}
-
-.u-section-5 .u-text-16 {
-  line-height: 1.2;
-  margin: 35px 0 0;
-}
-
-.u-section-5 .u-text-17 {
-  margin: 35px 0 0;
-}
-
 .u-section-5 .u-gallery-nav-1 {
   position: absolute;
   left: 10px;
   width: 62px;
   height: 62px;
-  top: 372px;
+  top: 442px;
 }
 
 .u-section-5 .u-gallery-nav-2 {
@@ -893,7 +873,7 @@
   width: 62px;
   height: 62px;
   left: auto;
-  top: 372px;
+  top: 442px;
   right: 10px;
 }
 
@@ -962,11 +942,6 @@
   }
 
   .u-section-5 .u-image-7 {
-    margin-left: 67px;
-    margin-right: 98px;
-  }
-
-  .u-section-5 .u-image-8 {
     margin-left: 67px;
     margin-right: 98px;
   }
