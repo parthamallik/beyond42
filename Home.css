@@ -1523,7 +1523,7 @@
 .u-section-8 .u-form-1 {
   height: 347px;
   width: 570px;
-  margin: 29px auto 60px;
+  margin: 29px auto 0;
 }
 
 .u-section-8 .u-input-1 {
@@ -1547,10 +1547,16 @@
 }
 
 .u-section-8 .u-btn-1 {
-  background-image: none;
   border-style: solid;
+  font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-8 .u-btn-1 {
+    letter-spacing: normal;
+  }
 }
 
 @media (max-width: 767px) {
