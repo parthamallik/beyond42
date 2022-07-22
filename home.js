@@ -11,8 +11,12 @@ $('#contact-submit').click(function (event) {
         data: JSON.stringify($("#contact-form").serializeArray().reduce((json, value, key) => { json[value.name] = value.value; return json; }, {})),
         contentType: 'application/json;charset=UTF-8',
         success: function (response) {
-            alert(response);
+            alert("We will get back to you !");
+        },
+        error: function (request, error) {
+            alert("Could not send, please write to reach@blrsports.org");
         }
     });
+    alert('TEST')
     return false; // for good measure
 });
