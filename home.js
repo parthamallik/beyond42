@@ -17,6 +17,5 @@ $('#contact-submit').click(function (event) {
             alert("Could not send, please write to reach@blrsports.org");
         }
     });
-    alert('TEST')
     return false; // for good measure
 });
